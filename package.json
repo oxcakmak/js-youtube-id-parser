@@ -1,0 +1,27 @@
+{
+  "name": "js-youtube-id-parser",
+  "version": "1.0.0",
+  "description": "The easiest way to get YouTube url address with Javascript.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript youtube url parser",
+    "javascript youtube link parser",
+    "javascript youtube video link parser",
+    "javascript youtube video id parser",
+    "js youtube url parser",
+    "js youtube link parser",
+    "js youtube video link parser",
+    "js youtube video id parser",
+    "youtube url parser",
+    "youtube url parse",
+    "youtube video link parser",
+    "youtube video id parser",
+    "youtube link parser",
+    "youtube id parser"
+  ],
+  "author": "oxcakmak",
+  "license": "ISC"
+}
